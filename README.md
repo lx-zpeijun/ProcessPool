@@ -17,3 +17,9 @@ cmake .
 make
 ./process_pool
 ```
+
+## 参考
+
+```
+https://github.com/alpinus4/process-pool/tree/main
+```
